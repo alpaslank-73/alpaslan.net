@@ -40,9 +40,7 @@ tags: [alpaslan,net,ip_list]
 # collection label 'namespace.name'. The value is a version range
 # L(specifiers,https://python-semanticversion.readthedocs.io/en/latest/#requirement-specification). Multiple version
 # range specifiers can be set and are separated by ','
-dependencies:
-  community.general: '>=1.0.0'
-  ansible.posix: '>=1.0.0'
+dependencies: {}
 
 # The URL of the originating SCM repository
 repository: https://github.com/alpaslank-73/alpaslan.net.git
